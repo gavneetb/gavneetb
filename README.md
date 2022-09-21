@@ -2,8 +2,8 @@
 
 ⚡Check out my Hack the North 2022 project:
 
-<a href="https://chargedup.achchala.repl.co/"> chargedUp - find the closest electric vehicle charging station with the click of a button</a>
-<a href="https://devpost.com/software/chargedup"> chargedUp - Devpost</a>
+<p> <a href="https://chargedup.achchala.repl.co/"> chargedUp - find the closest electric vehicle charging station with the click of a button</a> </p>
+<p> <a href="https://devpost.com/software/chargedup"> chargedUp - Devpost</a> </p>
 
 🌱 Currently working on:
 
